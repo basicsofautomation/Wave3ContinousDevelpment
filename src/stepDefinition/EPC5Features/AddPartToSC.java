@@ -12,7 +12,8 @@ import cucumber.api.java.en.When;
 
 import stepDefinition.EPC5ApplicationFunctionLibrary;
 import stepDefinition.Wave3AutomationBaseClass;
-
+/*
+*/
 //Class hold glue code for AddPartToSC feature [Add Part To Shopping Cart] 
 public class AddPartToSC extends Wave3AutomationBaseClass{
 
